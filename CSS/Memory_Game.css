@@ -1,0 +1,33 @@
+#button1{
+    /*height: 30px;*/
+    /*width: 100px;*/
+    background-color: mediumpurple;
+    color: white;
+    /*font-size: 15px;*/
+    /*margin-bottom: 20px;*/
+}
+
+.writeRed{
+    color:mediumpurple;
+}
+
+.image{
+    background-color: mediumpurple;
+}
+
+.image_pile{
+    margin-bottom: 4%;
+    height:250px;
+    background-image: url('../Images/fond.jpg');
+    background-size: cover;
+    margin-left: 4%;
+    /*display: inline-block;*/
+    border: solid 2px white;
+    cursor:pointer;
+}
+.image_face{
+    height:248px;
+    margin-left:0%;
+    width:100%;
+    padding:0%;
+}
